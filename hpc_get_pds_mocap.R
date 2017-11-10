@@ -1,3 +1,7 @@
+#this file would use slurm and TDA R -Will read a distance mat file of mocap data, extract its persistent diagram and writes in a mat file. 
+#Use write_pds_from_R_to_mat.m to convert these mat files to a format as required
+
+
 #!/usr/bin/env Rscript
 
 setwd("/home/hchoi71/R/distmats_for_pd_from_phase_space_downsampled/")
