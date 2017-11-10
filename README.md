@@ -7,3 +7,4 @@ hpc_get_pds_mocap.R - file would use slurm and TDA R -Will read a distance mat f
 Use write_pds_from_R_to_mat.m to convert these mat files to a format as required
 
 
+use this https://github.com/ctralie/Math412S2017.git to use ripser from matlab. Two main files are RIPSfiltrationDM.m and RipsFiltrationPC.m 
